@@ -63,9 +63,9 @@ print(txt.split(' '))
 print(txt.find('M'))
 
 # Python uses zero indexing
-# sample_str = "Hello"
-# print(sample_str.index('H'))
-# print(sample_str.index('o'))
+sample_str = "Hello"
+print(sample_str.index('H'))
+print(sample_str.index('o'))
 
 # sample_char = sample_str[-1]
 # print(sample_char)
