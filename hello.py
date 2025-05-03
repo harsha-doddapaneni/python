@@ -24,13 +24,13 @@ Modules
 
 # List and tuples both are not same?
 
-# res = 10 + 20
-# print("Result: ", res)
-# # print(10 + 20)
-# print("Memory Address: ",id(res))
+res = 10 + 20
+print("Result: ", res)
+print(10 + 20)
+print("Memory Address: ",id(res))
 
-# # There are methods specific to that data type 
-# print("Data type: ", type(res))
+# There are methods specific to that data type 
+print("Data type: ", type(res))
 
 """
 this is a block comment
