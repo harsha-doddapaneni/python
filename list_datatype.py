@@ -47,6 +47,6 @@ print(l, type(l))
 # print(txt.split(" ")
 
 # List is a mutable datatype
-l = [10, 20, 30, "abcd", False]
-l[0] = 100
-print(l)
+# l = [10, 20, 30, "abcd", False]
+# l[0] = 100
+# print(l)
