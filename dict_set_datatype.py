@@ -16,10 +16,10 @@ print(d)
 
 # Set
 s = {'a', 'a', 'b', 'c'}
-# print(s)
-# {'b', 'a', 'c'}
-# s[0] = 'abc' # TypeError: 'set' object does not support item assignment
-# print(dir(s))
+print(s)
+{'b', 'a', 'c'}
+s[0] = 'abc' # TypeError: 'set' object does not support item assignment
+print(dir(s))
 
 """
 'add', 'clear', 'copy', 'difference', 'difference_update', 'discard', 'intersection', 'intersection_update', 'isdisjoint', 'issubset', 'issuperset', 'pop', 'remove', 'symmetric_difference', 'symmetric_difference_update', 'union', 'update'
