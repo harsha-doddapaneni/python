@@ -50,9 +50,9 @@ print(dir(sample_str))
 """
 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill'
 """
-# print(sample_str.capitalize())
-# print(sample_str.casefold())
-# # print(sample_str.center())
+print(sample_str.capitalize())
+print(sample_str.casefold())
+print(sample_str.center())
 
 # txt = "Hello, And Welcome To My World!"
 # x = txt.casefold()
@@ -91,8 +91,8 @@ print(dir(sample_str))
 
 # 1234 = 10
 
-sample_str = "this is a string"
-sample_str[0] = 'T'
-# TypeError: 'str' object does not support item assignment
+# sample_str = "this is a string"
+# sample_str[0] = 'T'
+# # TypeError: 'str' object does not support item assignment
 
-print(sample_str)
+# print(sample_str)
