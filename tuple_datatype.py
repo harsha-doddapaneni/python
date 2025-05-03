@@ -16,10 +16,10 @@ print(t.index("true"))
 t = (1, 2, 3, 5, 1, 2, 8)
 print(t.count(1))
 
-# unpacking
-# t = (1, 2)
-#t = [1, 2]
-# t1 = t[0]
-# t2 = t[1]
-#t1, t2 = t
-#print(t1, t2)
+#unpacking
+t = (1, 2)
+t = [1, 2]
+t1 = t[0]
+t2 = t[1]
+t1, t2 = t
+print(t1, t2)
