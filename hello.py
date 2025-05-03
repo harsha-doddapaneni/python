@@ -78,16 +78,16 @@ b = False
 print(a and b) # False
 print(a or b)  # True
 
-# a = 2
-# b = 4
+a = 2
+b = 4
 
-# print(a + b) # addition
-# print(a - b) # substraction
-# print(a * b) # multiplication
-# print(a / b) # division
-# print(b % a) # modulo division: returns remainder
-# print(a // b) # Integer division
-# print(a ** b) # exponentiation
+print(a + b) # addition
+print(a - b) # substraction
+print(a * b) # multiplication
+print(a / b) # division
+print(b % a) # modulo division: returns remainder
+print(a // b) # Integer division
+print(a ** b) # exponentiation
 
 # 1234 = 10
 
