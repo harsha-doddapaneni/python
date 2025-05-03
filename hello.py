@@ -58,9 +58,9 @@ txt = "Hello, And Welcome To My World!"
 x = txt.casefold()
 print(x)
 
-# print(txt.swapcase())
-# print(txt.split(' '))
-# print(txt.find('M'))
+print(txt.swapcase())
+print(txt.split(' '))
+print(txt.find('M'))
 
 # Python uses zero indexing
 # sample_str = "Hello"
