@@ -1,7 +1,10 @@
 # list
 
 l = [1, 2, 3, "abc", True, [10, 20, 30, "abcd", False]]
-print(l, type(l))
+print(l, type(l)) 
+
+l = [1, 2, 3, "abc", True, [10, 20, 30, "abcd", False]]
+print(l(1[0]))
 
 # l1 = l[3]
 # print(l1)
