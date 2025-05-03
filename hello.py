@@ -91,8 +91,8 @@ print(a ** b) # exponentiation
 
 # 1234 = 10
 
-# sample_str = "this is a string"
-# sample_str[0] = 'T'
-# # TypeError: 'str' object does not support item assignment
+sample_str = "this is a string"
+sample_str[0] = 'T'
+# TypeError: 'str' object does not support item assignment
 
-# print(sample_str)
+print(sample_str)
