@@ -72,11 +72,11 @@ print(sample_char)
 print(len(sample_str))
 
 
-# a = True
-# b = False
+a = True
+b = False
 
-# print(a and b) # False
-# print(a or b)  # True
+print(a and b) # False
+print(a or b)  # True
 
 # a = 2
 # b = 4
