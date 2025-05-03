@@ -54,9 +54,9 @@ print(sample_str.capitalize())
 print(sample_str.casefold())
 #print(sample_str.center())
 
-# txt = "Hello, And Welcome To My World!"
-# x = txt.casefold()
-# print(x)
+txt = "Hello, And Welcome To My World!"
+x = txt.casefold()
+print(x)
 
 # print(txt.swapcase())
 # print(txt.split(' '))
