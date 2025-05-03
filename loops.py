@@ -1,21 +1,21 @@
 # for, for-else, while, while-else
 # continue, break
 
-l = [10, 20, 30, "abcd", False, "abcde"]
+#l = [10, 20, 30, "abcd", False, "abcde"]
 
 # find the first string element inside the given list
 # find elements that are integers and add 10 to them inside the given list
 # loop variable or iterable
-for ele in l:
-    if type(ele) == int:
-        print(ele + 10)
-        continue
-    if type(ele) == str:
-        print(ele)
-        #break
-    print("I am outside if block")
-else:
-    print("I am outside for loop and loop got exited without any break statement")
+# for ele in l:
+#     if type(ele) == int:
+#         print(ele + 10)
+#         continue
+#     if type(ele) == str:
+#         print(ele)
+#         #break
+#     print("I am outside if block")
+# else:
+#     print("I am outside for loop and loop got exited without any break statement")
 
 l = [10, 20, 30, "abcd", False, "abcde"]
 l = [False, True, [1, 2, 3]]
