@@ -4,9 +4,9 @@ print(t, type(t))
 t1 = t[-1]
 print(t1)
 
-# t[0] = 100 # TypeError: 'tuple' object does not support item assignment
-# Tuple is an immutable datatype
-# print(dir(t))
+t[0] = 100 # TypeError: 'tuple' object does not support item assignment
+#Tuple is an immutable datatype
+print(dir(t))
 # 'count', 'index'
 
 # ValueError: tuple.index(x): x not in tuple
