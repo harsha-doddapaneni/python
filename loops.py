@@ -12,7 +12,7 @@ for ele in l:
         continue
     if type(ele) == str:
         print(ele)
-        # break
+        break
     print("I am outside if block")
 else:
     print("I am outside for loop and loop got exited without any break statement")
