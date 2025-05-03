@@ -13,8 +13,8 @@ print(t1)
 #print(t.index("abc"))
 print(t.index("true"))
 
-# t = (1, 2, 3, 5, 1, 2, 8)
-# print(t.count(1))
+t = (1, 2, 3, 5, 1, 2, 8)
+print(t.count(1))
 
 # unpacking
 # t = (1, 2)
