@@ -17,25 +17,25 @@ for ele in l:
 else:
     print("I am outside for loop and loop got exited without any break statement")
 
-# l = [10, 20, 30, "abcd", False, "abcde"]
-# l = [False, True, [1, 2, 3]]
+l = [10, 20, 30, "abcd", False, "abcde"]
+l = [False, True, [1, 2, 3]]
 
-# idx = 0
+idx = 0
 
-# while idx < len(l):
-#     ele = l[idx]
-#     if type(ele) == int:
-#         print(ele + 10)
-#         # idx = idx + 1
-#         idx += 1
-#         continue
-#     if type(ele) == str:
-#         print(ele)
-#         break
-#     print("I am outside if block")
-#     idx += 1
-# else:
-#     print("I am outside loop and loop got exited without any break statement")
+while idx < len(l):
+    ele = l[idx]
+    if type(ele) == int:
+        print(ele + 10)
+        # idx = idx + 1
+        idx += 1
+        continue
+    if type(ele) == str:
+        print(ele)
+        break
+    print("I am outside if block")
+    idx += 1
+else:
+    print("I am outside loop and loop got exited without any break statement")
 
 # d = {'k': 123, (1, 2, 3, 4): 123, (1, 2, 3, 4, 5): list(str(123))}
 # for k, v in d.items():
