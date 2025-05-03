@@ -1,6 +1,6 @@
-# d = {'k': 123, (1, 2, 3, 4): 123, (1, 2, 3, 4, 5): list(str(123))}
-# print(d[(1, 2, 3, 4, 5)])
-# print(dir(d))
+d = {'k': 123, (1, 2, 3, 4): 123, (1, 2, 3, 4, 5): list(str(123))}
+print(d[(1, 2, 3, 4, 5)])
+print(dir(d))
 
 """
 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
