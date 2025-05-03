@@ -38,15 +38,15 @@ l = [10, 20, 30, "abcd", False]
 l.extend([1, 2, 3, "abc", True])
 print(l)
 
-# l = [2, 3, 1]
-# l.sort() # inplace
-# l1 = sorted(l) # this returns a new list
-# print(l, l1)
+l = [2, 3, 1]
+l.sort() # inplace
+l1 = sorted(l) # this returns a new list
+print(l, l1)
 
-# txt = "Hello, And Welcome To My World!"
-# print(txt.split(" ")
+txt = "Hello, And Welcome To My World!"
+print(txt.split(" "))
 
-# List is a mutable datatype
-# l = [10, 20, 30, "abcd", False]
-# l[0] = 100
-# print(l)
+#List is a mutable datatype
+l = [10, 20, 30, "abcd", False]
+l[0] = 100
+print(l)
