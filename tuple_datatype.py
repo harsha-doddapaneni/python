@@ -10,8 +10,8 @@ print(dir(t))
 # 'count', 'index'
 
 # ValueError: tuple.index(x): x not in tuple
-# print(t.index("abc"))
-# print(t.index("true"))
+print(t.index("abc"))
+print(t.index("true"))
 
 # t = (1, 2, 3, 5, 1, 2, 8)
 # print(t.count(1))
