@@ -11,8 +11,8 @@ print(d.items())
 [('k', 123), ((1, 2, 3, 4), 123), ((1, 2, 3, 4, 5), ['1', '2', '3'])]
 #A dict is a mutable datatype
 
-# d['k'] = 1234
-# print(d)
+d['k'] = 1234
+print(d)
 
 # Set
 s = {'a', 'a', 'b', 'c'}
