@@ -25,11 +25,11 @@ l = [10, 20, 30, "abcd", False]
 l.append(True)
 print(l)
 
-# l.append([1, 2, 3, "abc", True])
-# print(l)
+l.append([1, 2, 3, "abc", True])
+print(l)
 
-# l.insert(0, "abc")
-# print(l)
+l.insert(0, "abc")
+print(l)
 
 # res = l.insert(0, "abc")
 # print(res, l)
