@@ -19,11 +19,11 @@ print(dir(l))
 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
 """
 
-# l = [10, 20, 30, "abcd", False]
+l = [10, 20, 30, "abcd", False]
 
-# append an element to the end of the list
-# l.append(True)
-# print(l)
+#append an element to the end of the list
+l.append(True)
+print(l)
 
 # l.append([1, 2, 3, "abc", True])
 # print(l)
