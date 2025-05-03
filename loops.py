@@ -1,7 +1,7 @@
 # for, for-else, while, while-else
 # continue, break
 
-# l = [10, 20, 30, "abcd", False, "abcde"]
+l = [10, 20, 30, "abcd", False, "abcde"]
 
 # find the first string element inside the given list
 # find elements that are integers and add 10 to them inside the given list
