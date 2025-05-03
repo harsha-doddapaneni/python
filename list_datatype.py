@@ -31,12 +31,12 @@ print(l)
 l.insert(0, "abc")
 print(l)
 
-# res = l.insert(0, "abc")
-# print(res, l)
+res = l.insert(0, "abc")
+print(res, l)
 
-# l = [10, 20, 30, "abcd", False]
-# l.extend([1, 2, 3, "abc", True])
-# print(l)
+l = [10, 20, 30, "abcd", False]
+l.extend([1, 2, 3, "abc", True])
+print(l)
 
 # l = [2, 3, 1]
 # l.sort() # inplace
