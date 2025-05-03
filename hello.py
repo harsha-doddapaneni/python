@@ -67,9 +67,9 @@ sample_str = "Hello"
 print(sample_str.index('H'))
 print(sample_str.index('o'))
 
-# sample_char = sample_str[-1]
-# print(sample_char)
-# print(len(sample_str))
+sample_char = sample_str[-1]
+print(sample_char)
+print(len(sample_str))
 
 
 # a = True
