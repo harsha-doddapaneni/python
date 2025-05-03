@@ -10,7 +10,7 @@ print(t1)
 # 'count', 'index'
 
 # ValueError: tuple.index(x): x not in tuple
-print(t.index("abc"))
+#print(t.index("abc"))
 print(t.index("true"))
 
 # t = (1, 2, 3, 5, 1, 2, 8)
