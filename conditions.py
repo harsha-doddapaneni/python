@@ -12,7 +12,7 @@ if True:
     print("I am evaluated")
 
 #Anything that is non-zero is considered as true
-if "false":
+if False:
     print("I am not evaluated")
 else:
     print("Zero")
