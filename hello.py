@@ -52,7 +52,7 @@ print(dir(sample_str))
 """
 print(sample_str.capitalize())
 print(sample_str.casefold())
-print(sample_str.center())
+#print(sample_str.center())
 
 # txt = "Hello, And Welcome To My World!"
 # x = txt.casefold()
