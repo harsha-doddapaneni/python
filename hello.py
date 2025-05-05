@@ -17,7 +17,7 @@ Modules
 # 2. Float / double   
 # 3. Strings   
 # 4. Boolean 
-# 5. List  
+# 5. List   
 # 6. Tuples 
 # 7. Dictonary 
 # 8. Sets
