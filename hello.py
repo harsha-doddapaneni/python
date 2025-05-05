@@ -13,7 +13,7 @@ Modules
 # print("Hello World")
 
 # Variables
-# 1. Integer
+# 1. Integer 
 # 2. Float / double
 # 3. Strings  
 # 4. Boolean
