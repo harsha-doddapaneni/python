@@ -26,7 +26,7 @@ Modules
 
 res = 10 + 20
 print("Result: ", res)
-print(10 + 20)
+print(10 + 20) 
 print("Memory Address: ",id(res))
 
 # There are methods specific to that data type 
