@@ -18,7 +18,7 @@ Modules
 # 3. Strings 
 # 4. Boolean
 # 5. List
-# 6. Tuples
+# 6. Tuples 
 # 7. Dictonary
 # 8. Sets
 
