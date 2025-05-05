@@ -7,7 +7,7 @@ functions
 DevOps Use case: Cost Optimization
    - CRON job schedule: *   *  *  *  *
 AWS Lambda  
-Modules
+Modules 
 """
  
 # print("Hello World")
