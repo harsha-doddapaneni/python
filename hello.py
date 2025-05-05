@@ -22,7 +22,7 @@ Modules
 # 7. Dictonary
 # 8. Sets
 
-# List and tuples both are not same?
+# List and tuples both are not same? 
 
 res = 10 + 20 
 print("Result: ", res)
