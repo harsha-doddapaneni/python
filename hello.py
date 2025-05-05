@@ -15,7 +15,7 @@ Modules
 # Variables
 # 1. Integer
 # 2. Float / double
-# 3. Strings 
+# 3. Strings  
 # 4. Boolean
 # 5. List
 # 6. Tuples 
