@@ -9,7 +9,7 @@ DevOps Use case: Cost Optimization
 AWS Lambda 
 Modules
 """
-
+ 
 # print("Hello World")
 
 # Variables 
