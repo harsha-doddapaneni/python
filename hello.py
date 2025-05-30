@@ -96,5 +96,4 @@ sample_str[0] = 'T'
 # TypeError: 'str' object does not support item assignment
 
 print(sample_str)
-
-                        
+ 
