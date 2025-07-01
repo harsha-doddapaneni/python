@@ -16,7 +16,7 @@
 #     print("I am outside if block")
 # else:
 #     print("I am outside for loop and loop got exited without any break statement")
-                           
+                            
 l = [10, 20, 30, "abcd", False, "abcde"]
 l = [False, True, [1, 2, 3]]
 
