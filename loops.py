@@ -21,7 +21,7 @@ l = [10, 20, 30, "abcd", False, "abcde"]
 l = [False, True, [1, 2, 3]]
 
 idx = 0
- 
+  
 while idx < len(l):
     ele = l[idx]
     if type(ele) == int:
