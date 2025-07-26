@@ -5,7 +5,7 @@
 
 # find the first string element inside the given list
 # find elements that are integers and add 10 to them inside the given list
-# loop variable or iterable                 
+# loop variable or iterable                  
 # for ele in l:
 #     if type(ele) == int:
 #         print(ele + 10)
